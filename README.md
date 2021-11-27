@@ -13,7 +13,7 @@ toast("结束");
 log("结束");
 function bookmark() {//遍历输出书签
     var array=[];//储存整个页面的书签夹或书签的name（id为label）
-    var past_length=-1;//array的元素个数
+    var past_length=1;//array的元素个数
     do{
         past_length=array.length;
         /*一个页面的遍历--------*/
