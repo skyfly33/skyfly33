@@ -455,10 +455,10 @@ https://t.me/fongmi_release
       "key": "csp_Missav",
       "name": "❤MissAV",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./js/missav.js",
       "searchable": 1,
       "jar":"/jar/pg23a94bb.jar;md5;73b12022e75e5139dc39e9690727021c"
-      "ext":"./js/Missav.js"
+      
     },
     {
       "key": "Supjav",
