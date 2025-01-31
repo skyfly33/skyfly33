@@ -458,6 +458,7 @@ https://t.me/fongmi_release
       "searchable": 1,
       "jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/lllyin/assets/master/custom_spider.png;md5;6976f6560b0b5ff9182651d9e4c43dac"
     },
+ {"key":"MissAV","name":"MissAV","type":3,"api":"csp_Miss","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.78}},
  {"key":"drpy_js_Missav","name":"Missav","type":3,"api":"./lib/drpy2.min.js","ext":"./js/Missav.js"},
     {
       "key": "Supjav",
