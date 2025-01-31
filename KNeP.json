@@ -457,7 +457,7 @@ https://t.me/fongmi_release
       "type": 3,
       "api": "csp_Miss",
       "searchable": 1,
-      "jar":"https://raw.githubusercontent.com/skyfly33/skyfly33/master/custom_spider.jar"
+      "jar":"./custom_spider.jar"
       "ext":"./js/Missav.js"
     },
  {"key":"drpy_js_Missav","name":"Missav","type":3,"api":"./lib/drpy2.min.js","ext":"./js/Missav.js"},
