@@ -247,7 +247,7 @@ https://t.me/fongmi_release
       "api": "https://api.foxzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
-    },
+    }, 
     {
       "key": "暴风资源",
       "name": "❤暴风",
@@ -454,7 +454,7 @@ https://t.me/fongmi_release
       "key": "MissAV",
       "name": "❤MissAV",
       "type": 3,
-      "api": "./js/missav.js",
+      "api": "csp_Miss",
       "searchable": 1,
       "jar":"./jar/pg23a94bb.jar;md5;73b12022e75e5139dc39e9690727021c"
       "ext":"./js/Missav.js"
