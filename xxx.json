@@ -456,7 +456,8 @@ https://t.me/fongmi_release
       "type": 3,
       "api": "csp_Miss",
       "searchable": 1,
-      "jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/lllyin/assets/master/custom_spider.png;md5;6976f6560b0b5ff9182651d9e4c43dac"
+      "jar":"https://raw.githubusercontent.com/lllyin/assets/master/custom_spider.png;md5;6976f6560b0b5ff9182651d9e4c43dac"
+      "ext":"./js/Missav.js"
     },
     {
       "key": "Supjav",
