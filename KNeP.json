@@ -460,6 +460,7 @@ https://t.me/fongmi_release
       "jar":"/jar/pg23a94bb.jar;md5;73b12022e75e5139dc39e9690727021c"
       
     },
+ {"key":"drpy_js_Missav","name":"Missav","type":3,"api":"./lib/drpy2.min.js","ext":"./js/Missav.js"},
     {
       "key": "Supjav",
       "name": "❤Supjav",
