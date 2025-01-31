@@ -452,10 +452,10 @@ https://t.me/fongmi_release
       "jar":"https://hub.gitmirror.com/https://raw.githubusercontent.com/lllyin/assets/master/custom_spider.png;md5;6976f6560b0b5ff9182651d9e4c43dac"
     },
     {
-      "key": "csp_Missav",
+      "key": "Missav",
       "name": "❤MissAV",
       "type": 3,
-      "api": "./js/missav.js",
+      "api": "csp_miss",
       "searchable": 1,
       "jar":"/jar/pg23a94bb.jar;md5;73b12022e75e5139dc39e9690727021c"
       
