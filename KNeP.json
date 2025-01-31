@@ -71,7 +71,6 @@ https://t.me/fongmi_release
 
 */
 {
-  "spider":"./jar/pg23a94bb.jar;md5;73b12022e75e5139dc39e9690727021c",
   "sites": [
     {
       "key":"路飞直播2点播",
@@ -460,7 +459,7 @@ https://t.me/fongmi_release
       "jar":"/jar/pg23a94bb.jar;md5;73b12022e75e5139dc39e9690727021c"
       
     },
- {"key":"drpy_js_Missav","name":"Missav","type":3,"api":"./lib/drpy2.min.js","ext":"./js/Missav.js"},
+ {"key":"drpy_js_Missav","name":"Missav","type":3,"api":"./lib/drpy2.min.js","ext":"./js/Missav.js","spider":"./jar/pg23a94bb.jar;md5;73b12022e75e5139dc39e9690727021c"},
     {
       "key": "Supjav",
       "name": "❤Supjav",
