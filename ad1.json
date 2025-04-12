@@ -1,0 +1,18 @@
+{
+    "公众号": "影视范",
+    "qq频道": "TVBox本地包",
+    "qq频道链接": "https://pd.qq.com/s/2mvdgmij8",
+    "spider": "./0922fty.jar;md5;1ff7d17008babe7d3d115fb1d03ee3e0",
+    "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+    "sites": [
+  {
+    "key": "51吃瓜",
+    "name": "51吃瓜",
+    "type": 3,
+    "api": "https://raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/adult/51%E5%90%B8%E7%93%9C.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+  },
+]
+}
